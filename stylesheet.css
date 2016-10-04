@@ -1,0 +1,80 @@
+nav{ background:60px darkgrey;
+     color: white;
+     font: 12px "Verdana";
+     padding:2px;
+
+}
+
+
+.big-i {
+  font:20px;
+  font-weight:bold;
+  border:2px solid white;
+
+
+}
+
+.ironyard {
+  color:black;
+  font-weight:bold;
+}
+
+.login{
+  padding-left:15%;}
+
+ol {
+    padding-top:10px;
+    margin-top:0px;
+    color: gray;
+}
+
+li{
+padding-bottom:5px;
+}
+
+a {text-decoration:none;
+color: black;}
+
+body{
+  background-color:#ECF1EF;
+  font: 14px "Verdana"}
+
+.second-line {font-size:10px;
+padding-left:16px;
+}
+
+.second-line a {
+  color:gray;
+}
+
+
+.why-is-this-happening
+ padding-top:10px;
+}
+
+.black-link
+  {font-size:14px;
+    font color:black;
+}
+
+.gray-link
+  {font-size:10px;
+    color:gray;}
+
+#more
+{text-decoration:none;}
+
+a.nav-links {text-decoration:none;
+color:black;}
+
+#more {
+  color:black;
+padding-left:50px}
+
+.bottom a {
+  font-size:10px;
+    text-decoration:none;
+}
+
+.search{
+  color:gray;}
